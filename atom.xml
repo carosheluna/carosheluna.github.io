@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nostagia Carol</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-04-28T05:23:32.770Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Carol Xiao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>云与光</title>
+    <link href="http://example.com/2021/04/18/Cloud&#39;s%20Song/"/>
+    <id>http://example.com/2021/04/18/Cloud&#39;s%20Song/</id>
+    <published>2021-04-18T04:25:15.000Z</published>
+    <updated>2021-04-28T05:23:32.770Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天的黄昏和平日的不太一样。天空和城市划开一个稀薄的口子，余光却是在这窄窄的光带中静静流淌开来。</p><p>没有一丝匆忙和慌张，远远地眺望，一分一秒，自有一种光明自在。云深的地方，仿佛一尊永恒的瀑布，没有奔腾的水花，却又异常和谐地看着它们与阴影共舞。 几番交错以后，左侧的光渐渐落下，右边的云啊接住了一架飞机，好像和阳光一起托举出了一片远方。</p><p>这地方没个城市的样子，只见模糊的光影绵延悠远，你说不清它是山影还是湖影。一位佳人，终不得见，你惦念她面纱后的秀颜，远远看几眼却不敢上前，只因着这无法言说的神圣。四周的星星点点，像围绕她的孩童，簇拥着，欣喜地游来游去。</p><p>只是静静地坐着，便可得安宁。黄昏都不用披上什么粉橘紫的装扮，就这么直白白地照下来，就已经很美。大朵大朵的云，比油画还要俊朗，黄灿灿地光洒下来，映衬的人间茫茫。我看这光愈来愈强，是天使看人世苦痛的灵魂心生不忍来救赎了吗。</p><p>今天的歌单是spotify我常常听的summer reading，心灵宁静全靠它了。一个人坐在家里，看着gerrad的小汽车像模型一样川流滑行，在这些坚硬的工具的包裹下，想必也有很多伤心的人吧。愿这永恒的光，治愈你我。</p><p>这光倒是游移地很快，一下子右侧的光口就被封上了，仔细一看，全跑到中心，一个巨大的光圈，很温柔很坚定地投射下来。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天的黄昏和平日的不太一样。天空和城市划开一个稀薄的口子，余光却是在这窄窄的光带中静静流淌开来。&lt;/p&gt;
+&lt;p&gt;没有一丝匆忙和慌张，远远地眺望，一分一秒，自有一种光明自在。云深的地方，仿佛一尊永恒的瀑布，没有奔腾的水花，却又异常和谐地看着它们与阴影共舞。 几番交错以后，左侧</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/04/11/hello-world/"/>
+    <id>http://example.com/2021/04/11/hello-world/</id>
+    <published>2021-04-12T00:45:47.090Z</published>
+    <updated>2021-04-12T00:45:47.090Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
