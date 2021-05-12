@@ -3,11 +3,11 @@
   <title>Nostagia Carol</title>
   
   
-  <link href="https://carosheluna.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://carosheluna.github.io/atom.xml" rel="self"/>
   
-  <link href="https://carosheluna.github.io/blog/"/>
+  <link href="https://carosheluna.github.io/"/>
   <updated>2021-04-28T05:23:32.770Z</updated>
-  <id>https://carosheluna.github.io/blog/</id>
+  <id>https://carosheluna.github.io/</id>
   
   <author>
     <name>Carol Xiao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>云与光</title>
-    <link href="https://carosheluna.github.io/blog/2021/04/18/Cloud&#39;s%20Song/"/>
-    <id>https://carosheluna.github.io/blog/2021/04/18/Cloud&#39;s%20Song/</id>
+    <link href="https://carosheluna.github.io/2021/04/18/Cloud&#39;s%20Song/"/>
+    <id>https://carosheluna.github.io/2021/04/18/Cloud&#39;s%20Song/</id>
     <published>2021-04-18T04:25:15.000Z</published>
     <updated>2021-04-28T05:23:32.770Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://carosheluna.github.io/blog/2021/04/11/hello-world/"/>
-    <id>https://carosheluna.github.io/blog/2021/04/11/hello-world/</id>
+    <link href="https://carosheluna.github.io/2021/04/11/hello-world/"/>
+    <id>https://carosheluna.github.io/2021/04/11/hello-world/</id>
     <published>2021-04-12T00:45:47.090Z</published>
     <updated>2021-04-12T00:45:47.090Z</updated>
     
